@@ -6,7 +6,7 @@ It will take me awhile to update this page with all the relevant info / files re
 - STL - 3D print files intended for FDM printing specifically with ABS filament (note the speaker grilles are meant for resin 3D printing)
 - SVG - Vector line files for laser cutting or CNC router
 - Parts & Materials - https://drive.google.com/drive/folders/1Mat5i3Aj4ehOi_3efJd82ZhYPgAkP_4D?usp=sharing
-- Graphics, laser cut parts and UV printed acrylic parts can be requested via my social media accounts.
+- Vinyl graphics, laser cut parts and UV printed acrylic parts can be requested via my social media accounts.
 
 ![MGS004 NSM](https://github.com/multigamesystem/MGS004NSM-MVS-U4-Bartop-Arcade/blob/main/IMG_20260806_004936.jpg)
 
