@@ -13,4 +13,5 @@ Printing tips :
 - If prints aren't sticking use a brim and or apply a plate adhesive to help the filament stick.
 - Use the images in in my "Slicer plate layouts" folder for reference on optimal part orientation in your slicer.
 - I print my ABS at 100c Plate temp with a 270c nozzle temp.
-- Also 100% infill with multiple permieters typically. 
+- Also 100% infill with multiple permieters typically.
+- I recommend a temp controlled enclosure or printing in a space where temps are above 70 degrees F.
