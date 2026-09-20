@@ -15,3 +15,6 @@ Printing tips :
 - I print my ABS at 100c Plate temp with a 270c nozzle temp.
 - Also 100% infill with multiple permieters typically.
 - I recommend a temp controlled enclosure or printing in a space where temps are above 70 degrees F.
+
+Parts + Materials :
+https://drive.google.com/drive/folders/1Mat5i3Aj4ehOi_3efJd82ZhYPgAkP_4D?usp=sharing
