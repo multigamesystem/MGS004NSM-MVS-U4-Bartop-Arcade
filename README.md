@@ -9,7 +9,7 @@ It will take me awhile to update this page with all the relevant info / files re
 - Vinyl graphics, laser cut parts and UV printed acrylic parts can be requested via my social media accounts.
 
 ![MGS004 NSM](https://github.com/multigamesystem/MGS004NSM-MVS-U4-Bartop-Arcade/blob/main/IMG_20260806_004936.jpg)
-
+![MGS004 NSM](https://github.com/multigamesystem/MGS004NSM-MVS-U4-Bartop-Arcade/blob/main/IMG_20260405_173316.jpg)
 
 Printing tips :
 - I print my parts with a high temp smooth PEI sheet.
