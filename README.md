@@ -8,15 +8,17 @@ It will take me awhile to update this page with all the relevant info / files re
 - Parts & Materials - https://drive.google.com/drive/folders/1Mat5i3Aj4ehOi_3efJd82ZhYPgAkP_4D?usp=sharing
 - Vinyl graphics, laser cut parts and UV printed acrylic parts can be requested via my social media accounts.
 
-![MGS004 NSM](https://github.com/multigamesystem/MGS004NSM-MVS-U4-Bartop-Arcade/blob/main/IMG_20260806_004936.jpg)
-![MGS004 NSM](https://github.com/multigamesystem/MGS004NSM-MVS-U4-Bartop-Arcade/blob/main/IMG_20260405_173316.jpg)
-
-Printing tips :
+3D Printing tips :
 - I print my parts with a high temp smooth PEI sheet.
 - If prints aren't sticking use a brim and or apply a plate adhesive to help the filament stick.
 - Use the images in in my "Slicer plate layouts" folder for reference on optimal part orientation in your slicer.
 - I print my ABS at 100c Plate temp with a 270c nozzle temp.
 - Also 100% infill with multiple permieters typically.
 - I recommend a temp controlled enclosure or printing in a space where temps are above 70 degrees F.
+
+
+![MGS004 NSM](https://github.com/multigamesystem/MGS004NSM-MVS-U4-Bartop-Arcade/blob/main/IMG_20260806_004936.jpg)
+![MGS004 NSM](https://github.com/multigamesystem/MGS004NSM-MVS-U4-Bartop-Arcade/blob/main/IMG_20260405_173316.jpg)
+
 
 
