@@ -16,6 +16,11 @@ It will take me awhile to update this page with all the relevant info / files re
 - Also 100% infill with multiple permieters typically.
 - I recommend a temp controlled enclosure or printing in a space where temps are above 70 degrees F.
 
+If youd like to build the Neo Geo MVS MV-1C version of this cab.
+https://wiki.neogeodev.org/index.php/MV1C
+
+I highly recommend using a modified GBS8200 Arcade Video scaler.
+https://ramapcsx2.github.io/gbs-control/
 
 ![MGS004 NSM](https://github.com/multigamesystem/MGS004NSM-MVS-U4-Bartop-Arcade/blob/main/IMG_20260806_004936.jpg)
 ![MGS004 NSM](https://github.com/multigamesystem/MGS004NSM-MVS-U4-Bartop-Arcade/blob/main/IMG_20260405_173316.jpg)
